@@ -1,0 +1,14 @@
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\bin\Debug\netcoreapp3.1\Banco - Classes Abstractas.exe
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\bin\Debug\netcoreapp3.1\Banco - Classes Abstractas.deps.json
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\bin\Debug\netcoreapp3.1\Banco - Classes Abstractas.runtimeconfig.json
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\bin\Debug\netcoreapp3.1\Banco - Classes Abstractas.runtimeconfig.dev.json
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\bin\Debug\netcoreapp3.1\Banco - Classes Abstractas.dll
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\bin\Debug\netcoreapp3.1\Banco - Classes Abstractas.pdb
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\obj\Debug\netcoreapp3.1\Banco - Classes Abstractas.csproj.AssemblyReference.cache
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\obj\Debug\netcoreapp3.1\Banco - Classes Abstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\obj\Debug\netcoreapp3.1\Banco - Classes Abstractas.AssemblyInfoInputs.cache
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\obj\Debug\netcoreapp3.1\Banco - Classes Abstractas.AssemblyInfo.cs
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\obj\Debug\netcoreapp3.1\Banco - Classes Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\obj\Debug\netcoreapp3.1\Banco - Classes Abstractas.dll
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\obj\Debug\netcoreapp3.1\Banco - Classes Abstractas.pdb
+C:\Users\Paula\source\repos\Banco - Classes Abstractas\Banco - Classes Abstractas\obj\Debug\netcoreapp3.1\Banco - Classes Abstractas.genruntimeconfig.cache
